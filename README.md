@@ -6,7 +6,7 @@
 <div style="display: flex;">
   <p>A versatile mind crafting code, weaving words, and deciphering data, a fusion of a Machine Learning Engineer, Web Developer, and Content Writer.</p>
 <div id="header" align="center">
-  <img src="3.gif" width="250" height="250" img align="right">
+  <img src="2.gif" width="250" height="250" img align="right">
 </div>
 </div>
 
