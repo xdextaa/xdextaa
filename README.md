@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="/xdextaa/1.gif" style="max-width: 100%; max-height: 100%; display: inline-block; object-fit: contain;">
+  <img src="1.gif" style="max-width: 100%; max-height: 100%; display: inline-block; object-fit: contain;">
 </div>
 
 <h3 align="left">👀 About me:</h3>
 <p>----</p>
 <div id="header" align="center">
-  <img src="/xdextaa/2.gif" style="max-width: 100%; max-height: 100%; display: inline-block; object-fit: contain;">
+  <img src="2.gif" style="max-width: 100%; max-height: 100%; display: inline-block; object-fit: contain;">
 </div>
 
 <h3 align="left">⛓️ Connect with me:</h3>
